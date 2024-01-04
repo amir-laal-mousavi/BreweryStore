@@ -1,0 +1,16 @@
+footer {
+  padding: 5em 0 5em 0;
+  text-align: center;
+  color: $clr-brown-light;
+
+  .logo {
+    margin-bottom: 0.5em;
+  }
+  
+  p {
+    font-family: $ff-title;
+    line-height: 1;
+    margin: 0;
+  }
+}
+
